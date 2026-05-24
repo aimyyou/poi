@@ -1,0 +1,6 @@
+{
+  "name": "Casting Profile System",
+  "description": "A casting agency database featuring actor dossiers, official stats, and confidential rumors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
